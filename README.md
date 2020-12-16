@@ -4,4 +4,6 @@
 * 前端ui框架Bootstrap
 * pageHelper分页，jsr303校验
 * mybatis generator生成mapper代码
+* jdk1.7
+* tomcat7.0
 * maven+eclipse
